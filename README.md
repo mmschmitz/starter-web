@@ -20,4 +20,4 @@ Please fork this repository and then issue a Pull Request for review.
 
 ## Copyright
 
-2020 mmschmitz
+2020, mmschmitz.
