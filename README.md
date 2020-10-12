@@ -15,3 +15,7 @@ The main purpose of this document is to provide some relatively simple examples 
 This is a simple web project. We know that deployment is on any web server. :)
 
 ## How to Contribute
+
+## Copyright
+
+2020 Michelle
