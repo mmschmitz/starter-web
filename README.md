@@ -16,6 +16,8 @@ This is a simple web project. We know that deployment is on any web server. :)
 
 ## How to Contribute
 
+Please fork this repository and then issue a Pull Request for review.
+
 ## Copyright
 
 2020 Michelle
