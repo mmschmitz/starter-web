@@ -8,8 +8,10 @@ This is an example to show different stages of the Git repository and various co
 
 ## Purpose
 
-Sample website with plenty of files for demos
+The main purpose of this document is to provide some relatively simple examples for Git training purposes.
 
 ## Deployment
+
+This is a simple web project. We know that deployment is on any web server. :)
 
 ## How to Contribute
